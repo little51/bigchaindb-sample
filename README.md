@@ -1,6 +1,7 @@
 # bigchaindb-sample
 
-BigchainDB（https://github.com/bigchaindb/bigchaindb）是一个基于数据库理念的区块链实现，其安装过程可参见http://docs.bigchaindb.com/projects/server/en/latest/simple-deployment-template/index.html。但由于操作系统、python包依赖关系、网络环境的原因，直接按手册安装很难成功。本实践过程描述了在Ubuntu 18.04下安装BigchainDB2.0.0的全过程，并进行测试，为了简化安装过程，忽略掉了https（nginxnginx和域名）部分。
+BigchainDB（ https://github.com/bigchaindb/bigchaindb ） 是一个基于数据库理念的区块链实现，其安装过程可参见
+http://docs.bigchaindb.com/projects/server/en/latest/simple-deployment-template/index.html 。 但由于操作系统、python包依赖关系、网络环境的原因，直接按手册安装很难成功。本实践过程描述了在Ubuntu 18.04下安装BigchainDB2.0.0的全过程，并进行测试，为了简化安装过程，忽略掉了https（nginxnginx和域名）部分。
 
 BigchainDB的主要组件：
 
